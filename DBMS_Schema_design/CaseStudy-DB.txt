@@ -9,4 +9,3 @@ Business Requirements
 8.	Batches have lectures. Each lecture has a topic and is taken by an instructor
 9.	Instructor has name, dob and experience
 10.	Multiple batches can learn together in the same lecture.
-
