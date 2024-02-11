@@ -1,0 +1,12 @@
+Business Requirements
+1.	There are students
+2.	Each student has name, email and phone number
+3.	Each student is assigned to a batch.
+4.	Every batch has a name, start date and end date
+5.	Students can shift batches
+6.	Each student has a mentor
+7.	Mentor has name, dob and experience
+8.	Batches have lectures. Each lecture has a topic and is taken by an instructor
+9.	Instructor has name, dob and experience
+10.	Multiple batches can learn together in the same lecture.
+
